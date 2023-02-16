@@ -1,4 +1,3 @@
 # Portifolio_simples
-Fiz um portifolio para ir melhorando de pouco a pouco e implementando essas modificações no git.
-meu objetivo é usar a pagina git como uma biblioteca para que as pessoas ou empresas vejam meus projetos
-e que as pessoas possam usar como referencia para fazer o próprio portfólio
+Fiz um projeto de portfólio para ir melhorando de pouco a pouco e ir implementando CSS e Java ao projeto, e sempre estarei postando no GITHUB
+
